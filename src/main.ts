@@ -7,8 +7,8 @@ import { TitleScreen } from "./game/titlescreen.js";
 
 const initialEvent = (event : ProgramEvent) : void => {
 
-    event.assets.loadBitmap("_f", "assets/font.png");
-    event.assets.loadBitmap("_g", "assets/gameart.png");
+    event.assets.loadBitmap("_f", "f.png");
+    event.assets.loadBitmap("_g", "g.png");
 }
 
 

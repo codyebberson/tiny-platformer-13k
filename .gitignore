@@ -3,3 +3,6 @@ js
 *.zip
 temp
 closure
+dist
+node_modules
+package-lock.json
